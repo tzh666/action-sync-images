@@ -6,4 +6,4 @@ kubernetes:
   version: v1.23.6
 
 images:
-  - 
+  - registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1
