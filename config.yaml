@@ -6,4 +6,5 @@ kubernetes:
   version: v1.23.6
 
 images:
-  - 
+  - apache/skywalking-oap-server:9.1.0
+  - apache/skywalking-ui:9.1.0
