@@ -1,9 +1,9 @@
 default:
-  push_kubernetes: true
-  push_images: false
+  push_kubernetes: false
+  push_images: true
 
 kubernetes:
   version: v1.28.0
 
 images:
-  - 
+  - nvidia/cuda:10.0-cudnn7-devel-centos7
