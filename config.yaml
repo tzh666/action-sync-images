@@ -6,4 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - 
+  - docker.io/nvidia/cuda:10.0-cudnn7-devel-centos7
