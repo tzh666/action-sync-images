@@ -6,4 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - 
+  - docker.io/bitnami/etcd:3.5.7-debian-11-r14
