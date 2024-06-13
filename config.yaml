@@ -6,4 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - 
+  - docker.io/nginx:latest - docker.io/redis:latest
