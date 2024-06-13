@@ -6,4 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - 
+  - apache/skywalking-ui:9.1.0
