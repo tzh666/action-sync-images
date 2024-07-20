@@ -6,4 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/library/redis:7.0.15-alpine
+  - quay.io/argoproj/argocd:v2.10.14
