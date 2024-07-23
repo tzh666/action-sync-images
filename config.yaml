@@ -6,4 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - quay.io/argoproj/argocd:v2.10.14
+  - nvcr.io/nvidia/cloud-native/k8s-dra-driver:0.1.0
