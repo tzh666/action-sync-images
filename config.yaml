@@ -6,4 +6,4 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - nvcr.io/nvidia/cloud-native/k8s-dra-driver:0.1.0
+  - docker.io/library/centos:centos7.9.2009
