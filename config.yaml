@@ -6,4 +6,5 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/library/centos:centos7.9.2009
+  - quay.io/argoproj/argo-rollouts:v1.7.1
+  - quay.io/argoproj/kubectl-argo-rollouts:v1.7.1
