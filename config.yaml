@@ -6,5 +6,6 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - quay.io/argoproj/argo-rollouts:v1.7.1
-  - quay.io/argoproj/kubectl-argo-rollouts:v1.7.1
+  - docker.io/spinnakercd/argocd-blue-green:v1
+  - docker.io/spinnakercd/argocd-blue-green:v2
+  - docker.io/spinnakercd/argocd-blue-green:v3
