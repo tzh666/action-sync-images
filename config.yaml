@@ -6,5 +6,6 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/grafana/grafana:10.0.1
-  - docker.io/prom/prometheus:v2.44.0
+  - docker.io/victoriametrics/victoria-metrics:v1.91.3
+  - docker.io/quay.io/jacksontj/promxy
+  - jimmidyson/configmap-reload:v0.1
