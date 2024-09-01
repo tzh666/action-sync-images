@@ -6,6 +6,5 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - docker.io/spinnakercd/argocd-blue-green:v1
-  - docker.io/spinnakercd/argocd-blue-green:v2
-  - docker.io/spinnakercd/argocd-blue-green:v3
+  - docker.io/grafana/grafana:10.0.1
+  - docker.io/prom/prometheus:v2.44.0
