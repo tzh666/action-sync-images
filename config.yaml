@@ -6,6 +6,6 @@ kubernetes:
   version: v1.28.0
 
 images:
-  - ghcr.io/flannel-io/flannel:v0.28.5
+  - keking/kkfileview-base:5.0.0
   - ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel1
   # #
